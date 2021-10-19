@@ -1,0 +1,10 @@
+https://t-redactyl.io/blog/2015/11/object-oriented-programming-in-python-for-a-non-object-oriented-programmer.html
+https://realpython.com/python3-object-oriented-programming/
+https://isquared.digital/blog/2021-05-02-cellular-automata/
+https://zetcode.com/lang/python/oop/
+https://jakevdp.github.io/PythonDataScienceHandbook/04.02-simple-scatter-plots.html
+https://stackoverflow.com/questions/14324270/matplotlib-custom-marker-symbol
+https://www.mikedane.com/programming-languages/python/building-a-quiz/
+https://www.codegrepper.com/code-examples/python/dynamically+create+variables+in+loop+python
+https://www.geeksforgeeks.org/visualize-data-from-csv-file-in-python/
+https://stackoverflow.com/questions/56602423/create-plot-and-save-plot-same-name-as-csv-file
